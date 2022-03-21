@@ -12,6 +12,7 @@ import numpy as np
 from skimage import io
 
 sys.path.append("..")
+global device
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 batch_size = 256  # 256
