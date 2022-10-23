@@ -108,5 +108,5 @@ cat.jpg和cat_superres_with_ort.jpg分别为被SuperResolutionNet处理前后图
 
 <img src="https://s2.loli.net/2022/03/22/GO3Hkjgxno6fz4U.png" width=80%/>
 
-~~（我也不知道为啥识别结果这么离谱，先这样吧）~~
+~~（识别结果很离谱，可能是过拟合了，先这样吧）~~
 
